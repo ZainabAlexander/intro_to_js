@@ -12,14 +12,14 @@ var surname = 'Alexander'
 var age = 22; 
 var gender = 'female';
     student = 'Zainab';
-    admin = student;
+    admin =   'student';
     address = "belhar";
     studies = 'coding';
     // student = "Nate"
    
     // Created a paragraph using Concat 
 
- console.log("My name is " + student + " " + surname + " I am " + gender + " I live in " + address + " I currently study " + studies);
+ console.log("My name is " + student + " " + surname + " I am  a " + gender + " I live in " + address + " I currently study " + studies);
 
 
 

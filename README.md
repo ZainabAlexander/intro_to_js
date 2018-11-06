@@ -2,9 +2,11 @@
 Introduction to JavaScript
 
 ## What is JavaScript?
+- is a programming language.
 - Makes a website come alive and is used for functionality.
 - script tags are used.
 - Used externally or internally.
+- works alongside HTML and CSS.
 
 ## What was done;
 - An introduction to JavaScript.
@@ -21,10 +23,16 @@ Introduction to JavaScript
 - assignment = operator.
 - 'string'
 - Alert or console.log to check if your variable are not working.
+- alert()  is used for the alert box.
+
+## 
 
 ## Technologies used;
 - HTML
 - JavaScript
 
+
+## Contributors:
+- ZainabAlexander.
 
 Link to live Website: https://zainabalexander.github.io/intro_to_js/index.html
